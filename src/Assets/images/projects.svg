@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="icon_projects_black" transform="translate(10.25 -1)">
+    <g id="Group_6969" data-name="Group 6969" transform="translate(-1)">
+      <path id="Path_36748" data-name="Path 36748" d="M5,5H7V8H17V5h2v5h2V5a2.006,2.006,0,0,0-2-2H14.82A2.988,2.988,0,0,0,9.18,3H5A2.006,2.006,0,0,0,3,5V19a2.006,2.006,0,0,0,2,2h6V19H5Zm7-2a1,1,0,1,1-1,1A1,1,0,0,1,12,3Z" transform="translate(-12.25)" fill="#191919"/>
+      <path id="add-1" d="M5.251,3.75V0h-1.5V3.75H0v1.5H3.75V9h1.5V5.251H9v-1.5Z" transform="translate(1.75 12)" fill="#191919"/>
+    </g>
+  </g>
+</svg>

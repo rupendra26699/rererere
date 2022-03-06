@@ -1,0 +1,51 @@
+@font-face {
+  font-family: "Barlow";
+  src: local("Barlow"), url(./Assets/fonts/Barlow-Thin.ttf) format("truetype");
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: "Barlow";
+  src: local("Barlow"),
+    url(./Assets/fonts/Barlow-ExtraLight.ttf) format("truetype");
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: "Barlow";
+  src: local("Barlow"), url(./Assets/fonts/Barlow-Light.ttf) format("truetype");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Barlow";
+  src: local("Barlow"),
+    url(./Assets/fonts/Barlow-Regular.ttf) format("truetype");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Barlow";
+  src: local("Barlow"), url(./Assets/fonts/Barlow-Medium.ttf) format("truetype");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Barlow";
+  src: local("Barlow"),
+    url(./Assets/fonts/Barlow-SemiBold.ttf) format("truetype");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Barlow";
+  src: local("Barlow"), url(./Assets/fonts/Barlow-Bold.ttf) format("truetype");
+  font-weight: 700;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  @apply font-primary;
+}

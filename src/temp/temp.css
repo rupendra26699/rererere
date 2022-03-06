@@ -1,0 +1,111 @@
+.skill-wrapper {
+  height: 100vh;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.skill-modal {
+  display: block;
+  overflow-y: scroll;
+  width: 600px;
+  height: 594px;
+  padding: 20px;
+  background-color: white;
+}
+
+.skill-modal img {
+  width: 15px;
+  height: 15px;
+}
+
+.skill-content {
+  padding: 20px;
+  width: 550px;
+  height: 440px;
+  border: 1px solid #cecece;
+  border-radius: 4px;
+}
+.skillsAttributeTable {
+  width: 551px;
+  height: 300px;
+}
+
+.half-input1 {
+  width: 60%;
+  margin-left: 20px;
+}
+
+.skillAttributes {
+  width: 510px;
+  display: flex;
+  background-color: #f1f5f9;
+  box-shadow: 0px 1px 0px #dedede;
+  padding: 10px 20px;
+}
+
+.attributes-item {
+  display: flex;
+  margin-left: 20px;
+}
+
+.attribute {
+  width: 60%;
+}
+.rating {
+  display: flex;
+  width: 30%;
+  align-items: center;
+}
+.rating img {
+  margin-left: 20px;
+  width: 24px;
+  height: 24px;
+}
+
+.mr-50 {
+  margin-right: 50%;
+}
+
+.actions {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.actions p {
+  margin-right: 60%;
+  color: #f16632;
+}
+
+.actions button {
+  float: right;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border-radius: 21px;
+  font-size: 14px;
+  font-family: Barlow, sans-serif;
+  border: 1px solid black;
+  letter-spacing: 0px;
+  color: #191919;
+  padding: 8px 20px;
+}
+
+hr {
+  margin-top: 20px;
+  color: #cecece;
+}
+
+.save {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.hiddenSkillForm {
+  width: 550px;
+  height: 250px;
+  border: 1px solid #cecece;
+  border-radius: 4px;
+  padding: 20px;
+}
